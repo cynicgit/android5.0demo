@@ -1,0 +1,1 @@
+include ':app', ':toolbar', ':shape', ':palette', ':recycleview'

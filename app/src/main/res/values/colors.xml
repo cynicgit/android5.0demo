@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="navigationBarColor">#020202</color>
+
+    <color name="red_colorPrimaryDark">#b0140c</color>
+    <color name="red_colorPrimary">#e51e25</color>
+    <color name="red_windowBackground">#f36d61</color>
+    <color name="red_colorAccent">#e00233</color>
+    <color name="red_navigationBarColor">#d01918</color>
+
+
+    <color name="pink_colorPrimaryDark">#891050</color>
+    <color name="pink_colorPrimary">#e92064</color>
+    <color name="pink_windowBackground">#f06393</color>
+    <color name="pink_colorAccent">#ec417b</color>
+    <color name="pink_navigationBarColor">#c21a5c</color>
+</resources>

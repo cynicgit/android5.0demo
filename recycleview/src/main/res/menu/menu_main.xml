@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ip.cynic.recycleview.MainActivity">
+    <item
+        android:id="@+id/menu_list_v"
+        android:orderInCategory="100"
+        android:title="list纵向"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_list_h"
+        android:orderInCategory="100"
+        android:title="lis横向"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_grid_v"
+        android:orderInCategory="100"
+        android:title="grid纵向"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_grid_h"
+        android:orderInCategory="100"
+        android:title="grid横向"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_straggered_v"
+        android:orderInCategory="100"
+        android:title="瀑布流纵向"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_straggered_h"
+        android:orderInCategory="100"
+        android:title="瀑布流横向"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="ip.cynic.shape.MainActivity">
+
+    <View
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:background="#f73131"
+        android:elevation="6dp" />
+
+    <View
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="60dp"
+        android:background="#31f7e3"
+        android:elevation="4dp" />
+
+    <View
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginLeft="160dp"
+        android:layout_marginTop="160dp"
+        android:background="@drawable/shape_circle"
+        android:elevation="10dp" />
+
+    <ImageView
+        android:id="@+id/iv_shadow"
+        android:layout_marginLeft="160dp"
+        android:layout_marginTop="260dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/bt_add_default"
+        android:elevation="10dp"
+        />
+
+</RelativeLayout>

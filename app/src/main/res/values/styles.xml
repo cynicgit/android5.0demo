@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <!--标题栏背景-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!--通知栏背景-->
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <!--控件选中背景-->
+        <item name="colorAccent">@color/colorAccent</item>
+        <!--底部背景-->
+        <item name="android:navigationBarColor">@color/navigationBarColor</item>
+    </style>
+
+    <!-- red -->
+    <style name="AppTheme_Red" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <!--标题栏背景-->
+        <item name="colorPrimary">@color/red_colorPrimary</item>
+        <!--通知栏背景-->
+        <item name="colorPrimaryDark">@color/red_colorPrimary</item>
+        <!--窗体背景-->
+        <item name="android:windowBackground">@color/red_windowBackground</item>
+        <!--底部背景-->
+        <item name="android:navigationBarColor">@color/red_navigationBarColor</item>
+    </style>
+
+    <!-- pink -->
+    <style name="AppTheme_Pink" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/pink_colorPrimary</item>
+        <item name="colorPrimaryDark">@color/pink_colorPrimary</item>
+        <item name="android:windowBackground">@color/pink_windowBackground</item>
+        <item name="android:navigationBarColor">@color/pink_navigationBarColor</item>
+    </style>
+</resources>
